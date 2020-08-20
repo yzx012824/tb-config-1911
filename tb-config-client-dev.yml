@@ -20,7 +20,8 @@ spring:
     username: guest
     password: guest
 
-  cloud: 
+
+  cloud:
     bus: 
       enabled: true
       trace: 
