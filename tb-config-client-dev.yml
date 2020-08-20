@@ -1,5 +1,5 @@
 my:
-  name: 祥子骆驼
+  name: 祥子
 
 spring:
   redis:
